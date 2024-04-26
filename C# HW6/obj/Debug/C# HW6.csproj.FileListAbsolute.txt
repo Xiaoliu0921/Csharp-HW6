@@ -1,0 +1,7 @@
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\bin\Debug\C# HW6.exe.config
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\bin\Debug\C# HW6.exe
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\bin\Debug\C# HW6.pdb
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\obj\Debug\C# HW6.csproj.AssemblyReference.cache
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\obj\Debug\C# HW6.csproj.CoreCompileInputs.cache
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\obj\Debug\C# HW6.exe
+C:\Users\Leo\OneDrive\桌面\火箭隊培訓\C#\C# HW6\C# HW6\obj\Debug\C# HW6.pdb
